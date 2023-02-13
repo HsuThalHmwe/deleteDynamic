@@ -1,0 +1,53 @@
+/* h1 {
+  background-color: aqua;
+}
+p {
+  background-color: blue;
+} */
+.regBtn {
+  margin-bottom: 30px;
+}
+.app {
+  width: 500px;
+  height: 20px;
+  margin-top: 50px;
+  background-color: aqua;
+}
+
+.btn {
+  background-color: blue;
+}
+
+.input-group {
+  display: block;
+}
+.one {
+  padding-top: 20px;
+}
+.two {
+  padding-top: 20px;
+}
+.three {
+  padding-top: 20px;
+}
+
+#main {
+  background-color: gray;
+}
+
+span {
+  padding: 20px;
+}
+.spanClass {
+  margin: auto;
+  text-align: center;
+}
+.form-controls {
+  width: 500px;
+}
+.form-controlone {
+  width: 500px;
+}
+.form-controltwo {
+  width: 500px;
+}
